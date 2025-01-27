@@ -55,7 +55,7 @@ A través de mi experiencia cómo desarrollador, formación y proyectos he desar
 
 Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contactarnos. <a href="mailto:sergio.lofer.dev@gmail.com">contáctame por correo electrónico</a>.
 
-Puedes contratarme como freelance en <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> o <a href="https://www.linkedin.com/in/sergio-lopez-fullstack-developer/">LinkedIn</a> para desarrollar tus proyectos.
+Puedes contratarme como freelance en <a href="#">Fiverr</a> o <a href="https://www.linkedin.com/in/sergio-lopez-fullstack-developer/">LinkedIn</a> para desarrollar tus proyectos.
 
   </td>
   <td width="50%" valign="top">
