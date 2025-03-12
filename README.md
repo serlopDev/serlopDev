@@ -3,7 +3,9 @@
 </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+sans&weight=900&size=17&pause=1000&color=F231F7&background=00FF0100&center=true&vCenter=true&width=435&lines=Senior+Web+Developer;Especializado+en+Vue+y+Laravel)](https://git.io/typing-svg)
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sans&weight=900&size=22&pause=1000&color=F231F7&background=00FF0100&center=true&vCenter=true&width=435&lines=Senior+Web+Developer;Especializado+en+Vue+y+Laravel" alt="Typing SVG" /></a>
+</p>
 
 <hr>
 
